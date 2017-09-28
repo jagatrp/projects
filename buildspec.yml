@@ -3,5 +3,4 @@ version: 0.2
 artifacts:
   files: 
     - '**/*'
-  base-directory: 'my-build*'
   discard-paths: yes
