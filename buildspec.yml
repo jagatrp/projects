@@ -3,5 +3,5 @@ version: 0.2
 artifacts:
   files: 
     - '**/*'
-  base-directory: '*'
+  base-directory: '/*'
   discard-paths: yes
