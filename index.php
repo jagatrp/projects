@@ -1,1 +1,1 @@
-<? echo "Initial APP"; ?>
+<? echo "I love you."; ?>
