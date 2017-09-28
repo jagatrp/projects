@@ -1,0 +1,11 @@
+version: 0.2
+
+env:
+  
+phases:
+  build:
+    commands:
+      - npm install
+      - bower install --allow-root
+      - grunt setup:prd
+      - grunt build:prd
