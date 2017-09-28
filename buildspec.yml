@@ -1,10 +1,16 @@
 version: 0.2
   
-install:
-    commands:
-  pre_build:
-    commands:
-  build:
-    commands:
-  post_build:
-    commands:
+phases:  
+  install:
+      commands:
+    pre_build:
+      commands:
+    build:
+      commands:
+    post_build:
+      commands:
+artifacts:
+  files: 
+    - '**/*'
+  base-directory: 'my-build*'
+  discard-paths: yes
