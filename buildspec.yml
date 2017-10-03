@@ -2,5 +2,5 @@ version: 0.2
   
 artifacts:
   files: 
-    - '**/*'
+    - 'build-eb.zip'
   discard-paths: yes
