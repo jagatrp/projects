@@ -1,1 +1,1 @@
-<? echo "I love you so much sabi koju. fsafdsafdsfdsa"; ?>
+<? echo "I love you so much sabi koju"; ?>
