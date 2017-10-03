@@ -1,1 +1,1 @@
-<? echo "fdsfdsafdsaf"; ?>
+<? echo ";"; ?>
